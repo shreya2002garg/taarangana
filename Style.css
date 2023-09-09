@@ -138,18 +138,18 @@ body{
 
 }
 
-.img-2, .img-3, .img-4{
+.img{
     margin-left: -70px;
     border: 2px solid lightblue;
     border-radius: 20px;
 }
 
-.img-6, .img-7, .img-8{
+/* .img-6, .img-7, .img-8{
     margin-left: -70px;
     border: 2px solid lightgreen;
     border-radius: 20px;
-}
+} */
 
-.img-1, .img-5{
+/* .img-1, .img-5{
     opacity: 0.6;
-}
+} */
