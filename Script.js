@@ -28,8 +28,8 @@ showNavbarButton.addEventListener("click", function () {
         for (let i = 0; i < galleryImages.length; i++) {
             galleryImages[i].style.width = "24vw";
             mainSecGallery.style.marginLeft = "270px"
-            gallerrry1.style.width = "78vw"
-            gallerrry2.style.width = "78vw"
+            gallerrry1.style.width = "78vw";
+            gallerrry2.style.width = "78vw";
         }
     } else {
         navbar.style.display = "none";
@@ -37,8 +37,8 @@ showNavbarButton.addEventListener("click", function () {
             galleryImages[i].style.width = ""; // Reset the width
             galleryImages[i].style.marginLeft = ""; // Reset the margin
             mainSecGallery.style.marginLeft = "0px"
-            gallerrry1.style.width = "98vw"
-            gallerrry2.style.width = "98vw"
+            gallerrry1.style.width = "98vw";
+            gallerrry2.style.width = "98vw";
         }
     }
 });
